@@ -11,7 +11,13 @@ export default {
         'Roboto'
       ]
     },
-    extend: {},
+    extend: {
+      colors: {
+        'agency-red': '#c8102e',
+        'anomaly-blue': '#0047BB',
+        'reality-yellow': '#fcad30'
+      },
+    },
   },
   plugins: [],
 }
